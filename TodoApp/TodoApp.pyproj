@@ -30,7 +30,7 @@
   <ItemGroup>
     <Compile Include="runserver.py" />
     <Compile Include="TodoApp\__init__.py" />
-    <Compile Include="TodoApp\views.py" />
+    <Compile Include="TodoApp\application.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="TodoApp\" />
